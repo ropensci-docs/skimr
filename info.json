@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "97d0fa9f26c8e98912ba4079c44210f7bd88f382",
+    "author": "Michael Quinn <michael.quinn@aya.yale.edu>",
+    "time": "2021-04-27 17:04:53",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #662 from ropensci/codecov\n\nCreate test-coverage.yaml"
+  },
+  "remote": "https://github.com/ropensci/skimr",
+  "pkg": "skimr"
+}
