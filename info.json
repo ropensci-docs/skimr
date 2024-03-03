@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d5126aa020e703f37740af7ee56a4acb5830fd08",
+    "author": "Elin Waring <elin.waring@gmail.com>",
+    "time": "2022-12-23 01:44:31",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #731 from ropensci/develop\n\nDevelop to main"
+  },
+  "repo": "https://github.com/ropensci/skimr",
+  "pkg": "skimr"
+}
